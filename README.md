@@ -1,4 +1,5 @@
-✨ Hiiiii, I’m @Rulerofdragons3 I'm an 18 year old College student and I may be addicted to this coding thing.
+✨ Hiiiii, I’m @Rulerofdragons3!
+✨ I'm an 18 year old College student and I may be addicted to this coding thing.
 
 ✨ I currently work with Python, Lua, and C++.
 ✨ However, I have also worked with Java, Javascript (p5js), C#, and Ruby.
