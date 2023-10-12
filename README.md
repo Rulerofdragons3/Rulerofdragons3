@@ -1,4 +1,4 @@
-✨ Hiiiii, I’m @Rulerofdragons3!\n
+✨ Hiiiii, I’m @Rulerofdragons3!
 ✨ I'm an 18 year old College student and I may be addicted to this coding thing.
 
 ✨ I currently work with Python, Lua, and C++.
