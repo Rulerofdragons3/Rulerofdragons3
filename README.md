@@ -1,8 +1,9 @@
-✨ Hiiiii, I’m @Rulerofdragons3!
-✨ I'm an current CS major and I may be addicted to this coding thing.
+✨ Hello! I’m Logan!
+✨ I'm a current student at the University of Houston, who is pursuing computer science.
+What you will see here on my profile are projects I develop for my friends as a hobby.
 
-✨ I currently work with Python, Lua, and C++.
-✨ However, I have also worked with Java, Javascript (p5js), C#, and Ruby.
+✨ I am the most familiar with Python, GDScript, Javascript, and Lua.
+✨ I have also worked with languages such as C++, C#, Java, and Ruby.
 
 ✨ My socials all go under the name "Rulerofdragons3"; If you find an account with that name, It's probably me.
 
